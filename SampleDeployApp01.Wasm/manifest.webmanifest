@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "SampleDeployApp01",
+  "display": "standalone",
+  "name": "SampleDeployApp01",
+  "short_name": "SampleDeployApp01",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}

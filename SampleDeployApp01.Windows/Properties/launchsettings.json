@@ -1,0 +1,10 @@
+{
+	"profiles": {
+		"SampleDeployApp01.Windows (Unpackaged)": {
+			"commandName": "Project"
+		},
+		"SampleDeployApp01.Windows (Package)": {
+			"commandName": "MsixPackage"
+		}
+	}
+}
